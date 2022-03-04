@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Julius Lab"
 title_separator          : "-"
-name                     : &name "Dr. Agung Julius"
-description              : &description "A. Agung Julius is a Professor at the Department of Electrical, Computer, and Systems Engineering at the Rensselaer Polytechnic Institute. He is also a faculty member of the Rensselaer Center for Automation Technologies and Systems. His research interests lie in the intersection of systems and control theory, systems biology, and theoretical computer science."
+name                     : &name "Julius Lab"
+description              : &description "The Julius Lab is run by Dr A. Agung Julius. The lab works on applying control in the fields of chronobiology and robotics."
 url                      : https://julius-lab-rpi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/julius-lab-rpi.github.io"
+repository               : "Julius-Lab-RPI/Julius-Lab-RPI.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Agung Julius"
+  name             : "Julius Lab"
   avatar           : "profile.png"
-  bio              : "A. Agung Julius is a Professor at the Department of Electrical, Computer, and Systems Engineering at the Rensselaer Polytechnic Institute. He is also a faculty member of the Rensselaer Center for Automation Technologies and Systems. His research interests lie in the intersection of systems and control theory, systems biology, and theoretical computer science."
-  location         : "RPI, Troy, NY"
+  bio              : "The Julius Lab is headed by Dr A. Agung Julius. The lab works on applying control in the fields of chronobiology and robotics."
+  location         : "Troy, NY"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OmgSVN4AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Agung-Julius"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aajulius"
+  github           : "Julius-Lab-RPI"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -191,17 +191,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -209,41 +198,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
