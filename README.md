@@ -6,13 +6,18 @@ There's a nice guide from the original source of the layout available [here](htt
 
 The page is powered by Jekyll.
 
-To change basic 
-1. Basic config options: _config.yml
-2. Top navigation bar: _data/navigation.yml
-3. Single pages: _pages/
+To change basic site-wide aspects, there are three places of interest
+### Site-Wide Configuration
+_config.yml is where the basic config options should go. Going through the file should be self-explanatory.
+
+### Top Navigation Bar
+To change the nav bar, edit _data/navigation.yml. Each item in here shows up in the top navigation bar.
+
+### Single Pages
+To add or remove site pages, edit the _pages/ folder. Pages can be either markdown or html, and adding them to the folder makes them available for linking within the site.
 
 All the pages currently used are in the _pages/ folder
-1. about.md
+1. about.md (home page)
 2. research.html
 3. publications.html
 4. teaching.html
@@ -20,7 +25,14 @@ All the pages currently used are in the _pages/ folder
 
 Folders for supporting files:
 1. images/ - Image assets
-2. files/ - Papers in PDF form can go here
+2. files/ - Papers and syllabi in PDF form can go here
+
+Sidebar:
+_includes/sidebar.html
+
+Edit site footer:
+_includes/footer.html
+_includes/footer/custom.html
 
 ## General Tips
 1. Name a file “.md” to have it render in markdown, name it “.html” to render in HTML.

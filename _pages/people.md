@@ -1,34 +1,19 @@
 ---
 layout: archive
-title: "People"
-permalink: /people/
+title: "Group"
+permalink: /group/
 author_profile: false
 ---
-# A. Agung Julius (Principal Investigator)
-<table style="text-align: left; border:none;" border="0">
-<tbody>
-    <tr>
-    <td style="vertical-align: top;">
-    <a href="https://linkedin.com/in/agung-julius-7778b8a9" target="_blank">
-    <img style="width: 147px; float: left;" alt="A. Agung Julius" src="/images/agung.png" hspace="5">
-    </a>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-    </td>
-    </tr>
-</tbody>
-</table>
-
-# Group
 ## Current Members
 ### Ruixuan Yan (Graduate Student)
 <table style="text-align: left; border:none;" border="0">
 <tbody>
     <tr>
     <td style="vertical-align: top;">
-    <a href="https://www.linkedin.com/in/neelangact/" target="_blank">
     <img style="width: 147px; float: left;" alt="Neelanga" src="/images/neelanga.png" hspace="5">
-    </a>
-    Ruixuan's work is focused on... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+    Ruixuan's work is focused on... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+    <br><br>
+    Check out his <a href="https://www.linkedin.com/in/neelangact/" target="_blank">LinkedIn</a>.
     </td>
     </tr>
 </tbody>
@@ -39,10 +24,10 @@ author_profile: false
 <tbody>
     <tr>
     <td style="vertical-align: top;">
-    <a href="https://www.linkedin.com/in/neelangact/" target="_blank">
     <img style="width: 147px; float: left;" alt="Neelanga" src="/images/neelanga.png" hspace="5">
-    </a>
     Neelanga studies...
+    <br><br>
+    Check out his <a href="https://www.linkedin.com/in/neelangact/" target="_blank">LinkedIn</a>.
     </td>
     </tr>
 </tbody>
@@ -53,10 +38,10 @@ author_profile: false
 <tbody>
     <tr>
     <td style="vertical-align: top;">
-    <a href="https://linkedin.com/in/chukwuemeka-ike" target="_blank">
     <img style="width: 147px; float: left;" alt="Chukwuemeka" src="/images/chukwuemeka.png" hspace="5">
-    </a>
-    Chukwuemeka is investigating novel ways to efficiently quantify and track circadian rhythms on an individualized basis. His research interests also include robotics and broad machine learning.
+    Chukwuemeka is investigating novel ways to efficiently quantify and track circadian rhythms on an individualized basis. His work applies elements of control theory and machine learning in this problem space. His broader interests also include robotics, machine learning, and software development.
+    <br><br>
+    Check out his <a href="https://github.com/chukwuemeka-ike">Github</a> and <a href="https://linkedin.com/in/chukwuemeka-ike">LinkedIn</a>.
     </td>
     </tr>
 </tbody>
@@ -67,10 +52,10 @@ author_profile: false
 <tbody>
     <tr>
     <td style="vertical-align: top;">
-    <a href="https://www.linkedin.com/in/%E8%95%B4%E8%AF%97-%E6%96%87-884926151/" target="_blank">
     <img style="width: 147px; float: left;" src='/images/yunshi.png' alt='Yunshi' hspace="5">
-    </a>
-    Yunshi is investigating... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+    Yunshi is investigating... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+    <br><br>
+    Check out his <a href="https://www.linkedin.com/in/%E8%95%B4%E8%AF%97-%E6%96%87-884926151/" target="_blank">LinkedIn</a>.
     </td>
     </tr>
 </tbody>
