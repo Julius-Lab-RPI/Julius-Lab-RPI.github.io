@@ -17,7 +17,9 @@ The Julius Lab is a part of the ECSE department at Rensselaer Polytechnic Instit
 <tbody>
     <tr>
     <td style="vertical-align: top;">
-    <img style="width: 147px; float: left;" alt="A. Agung Julius" src="/images/agung.png" hspace="5">
+    <img style="width: 147px; float: left;" alt="A. Agung Julius" src="/images/agung.jpg" hspace="10">
+    
+    <span style="font-size:{{ page.font_size }};">
     <big>
     <big><span style="font-family: Calibri; font-weight: bold;">A. Agung Julius</span></big><br>
     Professor<br>
@@ -27,6 +29,7 @@ The Julius Lab is a part of the ECSE department at Rensselaer Polytechnic Instit
     <a href="https://move.rpi.edu/">Center for Mobility with Vertical Lift (MOVE)</a><br>
     <a href="https://lesa.rpi.edu/">Center for Lighting Enabled Systems and Applications (LESA)</a>
     </big>
+    </span>
     </td>
     </tr>
 </tbody>
