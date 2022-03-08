@@ -5,6 +5,11 @@
 There's a nice guide from the original source of the layout available [here](https://academicpages.github.io/markdown/). This tutorial goes over the things that I changed for our lab. If I didn't touch it, you can assume I know nothing about it.
 
 The page is powered by Jekyll.
+### Using this Repo
+If you already have access to the Lab's organizaiton, you should be able to edit this repo. To edit the repo, you need to have a local copy and 
+
+### Using Jekyll
+The 
 
 To change basic site-wide aspects, there are three places of interest
 ### Site-Wide Configuration
@@ -16,12 +21,15 @@ To change the nav bar, edit _data/navigation.yml. Each item in here shows up in 
 ### Single Pages
 To add or remove site pages, edit the _pages/ folder. Pages can be either markdown or html, and adding them to the folder makes them available for linking within the site.
 
-All the pages currently used are in the _pages/ folder
+All the pages currently used are in the _pages/ folder and named:
 1. about.md (home page)
 2. research.html
-3. publications.html
+3. people.md
 4. teaching.html
-5. people.md
+5. publications.html
+
+To edit any, use the appropriate syntax, and 
+
 
 Folders for supporting files:
 1. images/ - Image assets

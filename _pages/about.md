@@ -8,14 +8,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-The Julius Lab works on the application of control theory in robotics and chronobiology. (Needs work)
+<span style="font-size:{{ page.font_size }};">
+The Julius Lab is a part of the ECSE department at Rensselaer Polytechnic Institute. Our work spans diverse areas including the application of logic and control theory in the fields of robotics, learning, and chronobiology. (Needs work)
+</span>
 
 ## About Me
 <table style="text-align: left; border:none;" border="0">
 <tbody>
     <tr>
     <td style="vertical-align: top;">
-    <img style="width: 147px; float: left;" alt="A. Agung Julius" src="/images/agung.jpg" hspace="5">
+    <img style="width: 147px; float: left;" alt="A. Agung Julius" src="/images/agung.png" hspace="5">
     <big>
     <big><span style="font-family: Calibri; font-weight: bold;">A. Agung Julius</span></big><br>
     Professor<br>
