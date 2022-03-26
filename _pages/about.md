@@ -8,9 +8,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size:{{ page.font_size }};">
-The Julius Lab is a part of the ECSE department at Rensselaer Polytechnic Institute. Our work spans diverse areas including the application of logic and control theory in the fields of robotics, learning, and chronobiology. (Needs work)
-</span>
+<!-- <span style="font-size:{{ page.font_size }};">
+The Julius Lab is a part of the ECSE department at Rensselaer Polytechnic Institute. Our work spans diverse areas including the application of logic and control theory in the fields of robotics, learning, and systems biology. 
+</span> -->
 
 ## About Me
 <table style="text-align: left; border:none;" border="0">

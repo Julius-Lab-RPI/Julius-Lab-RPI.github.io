@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Julius Lab"
 title_separator          : "-"
 name                     : &name "Julius Lab"
-description              : &description "The Julius Lab is headed by Dr A. Agung Julius. The lab works on theory and applications of control and logic in the fields of robotics, learning, and chronobiology."
+description              : &description "The Julius Lab is headed by Dr A. Agung Julius. The lab studies the theory and applications of control and logic in the fields of robotics, learning, and systems biology."
 url                      : https://julius-lab-rpi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Julius-Lab-RPI/Julius-Lab-RPI.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Julius Lab"
   avatar           : "profile.png"
-  bio              : "The Julius Lab is headed by Dr A. Agung Julius. The lab works on theory and applications of control and logic in the fields of robotics, learning, and chronobiology."
+  bio              : "The Julius Lab is headed by Dr A. Agung Julius. The lab studies the theory and applications of control and logic in the fields of robotics, learning, and systems biology."
   location         : "Troy, NY"
   employer         :
   pubmed           : 
